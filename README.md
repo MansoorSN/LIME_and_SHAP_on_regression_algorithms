@@ -1,5 +1,5 @@
 # LIME_and_SHAP_on_regression_algorithms
-In this repo I will use the Support Vector Regression(SVR) to predict the prices of the Airbnb listings in major cities. The SVR model is further explained using SHAP and LIME.
+In this repo I will be using Support Vector Regression(SVR) to predict the prices of the Airbnb listings in major cities. The SVR model is further explained using SHAP and LIME.
 
 The dataset used in this notebook is a preprocessed dataset from the [AirBnB listings in major US cities](https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml/kernels) dataset.
 
