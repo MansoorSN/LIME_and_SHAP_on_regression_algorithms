@@ -10,4 +10,4 @@ To learn more about the SHAP refer the paper:[A Unified Approach to Interpreting
 Note: the target variable i.e the rental price of a property is a normalized value with mean=0.
 
 The SHAP output value is ![SHAP output](https://raw.githubusercontent.com/MansoorSN/LIME_and_SHAP_on_regression_algorithms/main/SHAP%20output.png)
-The  outputLIME output value is ![LIME output](https://raw.githubusercontent.com/MansoorSN/LIME_and_SHAP_on_regression_algorithms/main/LIME%20output.png)
+The  output LIME output value is ![LIME output](https://raw.githubusercontent.com/MansoorSN/LIME_and_SHAP_on_regression_algorithms/main/LIME%20output.png)
