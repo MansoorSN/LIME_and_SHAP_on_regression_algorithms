@@ -7,4 +7,4 @@ To learn more about the LIME refer the paper: ["Why Should I Trust You?": Explai
 
 To learn more about the SHAP refer the paper:[A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) and [github code implementation](https://github.com/slundberg/shap)
 
-Note: the target variable i.e the rental price of a property is a normalized value.
+Note: the target variable i.e the rental price of a property is a normalized value with mean=0.
